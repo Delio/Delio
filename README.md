@@ -4,7 +4,7 @@
 - Development of drivers for controlling various executive devices. Programming of automation systems. 
 - Development of custom interfaces for the Savant system, including TrueImage. 
 - I write programs in C++ and Python, develop apps for iOS.
-- I’m currently learning in Kazan national research technological university.
+- I’m studying in Kazan National Research Technological University.
 Computer science and engineering
 Faculty of Management and Automation Department of Automatic Information Collection and Processing
 
