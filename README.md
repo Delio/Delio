@@ -5,8 +5,8 @@
 - Development of custom interfaces for the Savant system, including TrueImage. 
 - I write programs in C++ and Python, develop apps for iOS.
 - I’m studying in Kazan National Research Technological University.
-Computer science and engineering
-Faculty of Management and Automation Department of Automatic Information Collection and Processing
+Computer science and engineering,
+Faculty of Management and Automation, Department of Automatic Information Collection and Processing
 
 
 
