@@ -1,6 +1,6 @@
 > "Every solution breeds new problems".  
 - Hi I am Adel, Specialist in automation and smart homes
-- 10+ years of experience in installing and configuring Control4 and Savant equipment. 
+- I have experience in installing and configuring Control4 and Savant equipment. 
 - Development of drivers for controlling various executive devices. Programming of automation systems. 
 - Development of custom interfaces for the Savant system, including TrueImage. 
 - I write programs in C++ and Python, develop apps for iOS.
